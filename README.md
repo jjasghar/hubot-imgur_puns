@@ -31,5 +31,5 @@ Run `npm install hubot-imgur_puns`
 ```
 user1>> Man, that was a horrible pun
 hubot>> Heh, I got a worse one....
-hubot>> //imgur.com/aWVWzHx.jpg
+hubot>> http://imgur.com/aWVWzHx.jpg
 ```
